@@ -6,9 +6,13 @@
 
 2. Initialization preparation 
 + download COCO 2014 dataset from http://cocodataset.org/#download
+
    extract file train2014.zip to forder .\\COCO_dataset\\images\\train2014
+   
    extract file val2014.zip to forder .\\COCO_dataset\\images\\val2014
+   
    extract file annotations_trainval2014.zip to forder .\\COCO_dataset\\annotations
+   
 
 + to convert annotations in COCO format to VOC format, create forder .\\VOC\\train and .\\VOC\\val, then run: 
 
