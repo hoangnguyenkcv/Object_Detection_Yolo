@@ -2,7 +2,7 @@
 1. Enviroment: 
 + keras: 2.2.2
 + tensorflow: 1.10
-+ python: 2.5
++ python: 3.5
 
 2. Initialization preparation 
 + download COCO 2014 dataset from http://cocodataset.org/#download
