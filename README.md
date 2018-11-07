@@ -1,7 +1,7 @@
 # Object_Detection_Yolo
 1. Enviroment: 
-+ keras: 2.2.2
-+ tensorflow: 1.10
++ keras: 2.1.2
++ tensorflow: 1.1.0
 + python: 3.5
 
 2. Initialization preparation 
